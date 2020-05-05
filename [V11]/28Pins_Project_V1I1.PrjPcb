@@ -157,7 +157,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OYMHLGTD
 
 [ProjectVariant1]
-UniqueID=6410282A-F737-4BE3-8CDC-2F61EEDDA587
+UniqueID=93BC35F2-98D4-4758-A7AB-A80E24135A41
 Description=FIXED 5V
 AllowFabrication=0
 ParameterCount=0
@@ -170,7 +170,7 @@ Variation5=Designator=LINK3|UniqueId=\JMPQLUMI|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
-UniqueID=73D6E657-495D-4178-875F-59503FB56101
+UniqueID=B53D283D-763D-4198-AB6A-F5A1EEA9FF91
 Description=5V/3V3
 AllowFabrication=0
 ParameterCount=0
